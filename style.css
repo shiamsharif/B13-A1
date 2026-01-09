@@ -239,3 +239,38 @@
     flex-shrink: 0;
 }
 
+.second-brain-cta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F7F6F2;
+    border-radius: 5px;
+    gap: 24px;
+    padding: 64px 0;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.second-brain-cta-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    width: 550px;
+}
+
+.second-brain-cta-content h2{
+    font-size: 30px;
+    font-weight: bold;
+    color: #000000;
+
+}
+
+.second-brain-cta-description{
+    font-size: 16px;
+    font-weight: 400;
+    color: #627382;
+    text-align: center; 
+}
+
